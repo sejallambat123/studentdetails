@@ -1,7 +1,7 @@
-package com.example.SpringMongoProject.Controller;
+package com.example.springmongoproject.Controller;
 
-import com.example.SpringMongoProject.Entity.Student;
-import com.example.SpringMongoProject.Service.StudentServices;
+import com.example.springmongoproject.Entity.Student;
+import com.example.springmongoproject.Service.StudentServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

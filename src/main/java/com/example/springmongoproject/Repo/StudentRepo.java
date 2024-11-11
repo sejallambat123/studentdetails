@@ -1,6 +1,6 @@
-package com.example.SpringMongoProject.Repo;
+package com.example.springmongoproject.Repo;
 
-import com.example.SpringMongoProject.Entity.Student;
+import com.example.springmongoproject.Entity.Student;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
